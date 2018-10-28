@@ -1,4 +1,4 @@
 package com.example.aula.loginwithfirebase.presentador;
 
-public class PresentadorLogin {
+public class PresentadorLogin implements IPresentadorLogin {
 }
