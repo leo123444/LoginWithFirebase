@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "360580531273",
+    "firebase_url": "https://loginwithfirebase-b6dc0.firebaseio.com",
+    "project_id": "loginwithfirebase-b6dc0",
+    "storage_bucket": "loginwithfirebase-b6dc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360580531273:android:fe76aec8e8eaaf93",
+        "android_client_info": {
+          "package_name": "com.example.aula.loginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360580531273-k6f9ap6og0tkjn3t3lmeck1rm00ull2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKHn7TG_8AyVCiHOxFDeQpp5ygA-AT7ow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
