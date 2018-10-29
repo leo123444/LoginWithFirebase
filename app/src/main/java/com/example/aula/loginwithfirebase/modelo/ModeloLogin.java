@@ -1,4 +1,4 @@
 package com.example.aula.loginwithfirebase.modelo;
 
-public class ModeloLogin {
+public class ModeloLogin implements IModeloLogin{
 }
